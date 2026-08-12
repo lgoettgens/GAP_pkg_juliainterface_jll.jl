@@ -1,6 +1,6 @@
 name = "GAP_pkg_juliainterface_jll"
 uuid = "ba154793-3a7d-51ee-8800-e295b0cf7374"
-version = "0.160000.1+0"
+version = "0.160000.0+2"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

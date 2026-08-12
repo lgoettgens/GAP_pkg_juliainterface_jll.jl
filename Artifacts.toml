@@ -307,16 +307,6 @@ os = "linux"
     url = "https://github.com/lgoettgens/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.1+0/GAP_pkg_juliainterface.v0.160000.1.x86_64-linux-gnu-julia_version+1.11.1.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "x86_64"
-git-tree-sha1 = "e85db86ad74090de9b34635cd29d25fbf9008a74"
-julia_version = "1.12.0"
-libc = "glibc"
-os = "linux"
-
-    [[GAP_pkg_juliainterface.download]]
-    sha256 = "1f962e28d73de43d335e0d06bb6dd6da0b0f405ff5bc85ece5644842848b2ac1"
-    url = "https://github.com/lgoettgens/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.1+0/GAP_pkg_juliainterface.v0.160000.1.x86_64-linux-gnu-julia_version+1.12.0.tar.gz"
-[[GAP_pkg_juliainterface]]
-arch = "x86_64"
 git-tree-sha1 = "f6628c9ba35f3f668b277ef7b10a5d5454112044"
 julia_version = "1.13.0"
 libc = "glibc"
@@ -430,3 +420,13 @@ os = "freebsd"
     [[GAP_pkg_juliainterface.download]]
     sha256 = "c81a9baeee5374af1573cdb8a218236ad66fb8fec81b96f52da3e6f6c25d0e99"
     url = "https://github.com/lgoettgens/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.1+0/GAP_pkg_juliainterface.v0.160000.1.x86_64-unknown-freebsd-julia_version+1.14.0.tar.gz"
+[[GAP_pkg_juliainterface]]
+arch = "x86_64"
+git-tree-sha1 = "2db4c2e73f81f44d6328aef725cd135ad44fa827"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_juliainterface.download]]
+    sha256 = "039341129bd331fd854b817dc4b304bb6441dba0fd69af2cc48a698a54a052ab"
+    url = "https://github.com/lgoettgens/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+2/GAP_pkg_juliainterface.v0.160000.0.x86_64-linux-gnu-julia_version+1.12.0.tar.gz"
